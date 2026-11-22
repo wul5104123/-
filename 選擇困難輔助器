@@ -1,0 +1,4 @@
+import random
+手機殼 = ["綠色","藍色"]
+隨機數字 = random.choice(手機殼)
+print(f"抽到的是{隨機數字}")
